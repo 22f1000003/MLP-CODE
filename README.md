@@ -1,2 +1,2 @@
 # MLP-CODE
-week1 to week12
+WEEK 2 here we learn about sklearn and its fuctionality
